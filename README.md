@@ -4,7 +4,7 @@
 
 ```
 $ pkg install nodejs && git
-$ git clone https://github.com/ibnusyawall/spam-wa
+$ git clone https://github.com/veriramadan/bom-wa
 $ npm i
 $ node index
 ```
